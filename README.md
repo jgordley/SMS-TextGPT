@@ -3,8 +3,8 @@
 SMS-TextGPT is a simple Flask implementation of OpenAI's ChatGPT that incorporates Telnyx SMS for sending and receiving text messages. This application allows you to have interactive conversations with an AI-powered language model using SMS.
 
 <div>
-    <img src="/screenshots/screenshot1.PNG" alt="Screenshot 1" width="400" />
-    <img src="/screenshots/screenshot2.PNG" alt="Screenshot 2" width="400" />
+    <img src="./images/screenshot2.PNG" alt="Screenshot 2" width="300" />
+    <img src="./images/screenshot1.PNG" alt="Screenshot 1" width="300" />
 </div>
 
 ## Prerequisites
@@ -35,7 +35,7 @@ git clone https://github.com/johngordley/sms-textgpt.git
 2. Install the required dependencies as mentioned in the prerequisites section.
 3. Set the environment variables for your API keys and Telnyx phone number
 4. Set up your Telnyx messaging profile to point to your webhook endpoint. In order to do this, you will need to either host this application or expose a local endpoint on your machine using a service such as [ngrok](https://ngrok.com/). Below you can see my local ngrok URL in the messaging profile for my Telnyx number:
-![Screenshot 1](/screenshots/screenshot3.PNG)
+![Screenshot 1](./images/screenshot3.PNG)
 A more detailed tutorial on this setup can be found in the [Telnyx Developer Docs: Receiving a Message Tutorial](https://developers.telnyx.com/docs/v2/messaging/messages/tutorials/receive_message/receive_message/).
 4. Run the application
 ```bash
