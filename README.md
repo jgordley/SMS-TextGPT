@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ## Installation
 1. Clone this repository or download the source code.
 ```bash
-git clone https://github.com/johngordley/sms-textgpt.git
+git clone https://github.com/jgordley/SMS-TextGPT.git
 ```
 2. Install the required dependencies as mentioned in the prerequisites section.
 3. Set the environment variables for your API keys and Telnyx phone number
