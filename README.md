@@ -37,7 +37,7 @@ git clone https://github.com/johngordley/sms-textgpt.git
 4. Set up your Telnyx messaging profile to point to your webhook endpoint. In order to do this, you will need to either host this application or expose a local endpoint on your machine using a service such as [ngrok](https://ngrok.com/). Below you can see my local ngrok URL in the messaging profile for my Telnyx number:
 
 <div>
-    <img src="./images/screenshot3.PNG" alt="Screenshot 2" width="90%" />
+    <img src="./images/screenshot3.png" alt="Screenshot 3" width="90%" />
 </div>
 
 A more detailed tutorial on this setup can be found in the [Telnyx Developer Docs: Receiving a Message Tutorial](https://developers.telnyx.com/docs/v2/messaging/messages/tutorials/receive_message/receive_message/).
