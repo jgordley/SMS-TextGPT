@@ -41,6 +41,7 @@ git clone https://github.com/johngordley/sms-textgpt.git
 </div>
 
 A more detailed tutorial on this setup can be found in the [Telnyx Developer Docs: Receiving a Message Tutorial](https://developers.telnyx.com/docs/v2/messaging/messages/tutorials/receive_message/receive_message/).
+
 4. Run the application
 ```bash
 flask run
